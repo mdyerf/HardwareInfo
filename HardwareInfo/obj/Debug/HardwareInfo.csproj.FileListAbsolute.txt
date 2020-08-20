@@ -1,0 +1,9 @@
+C:\Users\mdy\Desktop\HardwareInfo\HardwareInfo\bin\Debug\HardwareInfo.exe.config
+C:\Users\mdy\Desktop\HardwareInfo\HardwareInfo\bin\Debug\HardwareInfo.exe
+C:\Users\mdy\Desktop\HardwareInfo\HardwareInfo\bin\Debug\HardwareInfo.pdb
+C:\Users\mdy\Desktop\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.csprojAssemblyReference.cache
+C:\Users\mdy\Desktop\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.SystemInfo.resources
+C:\Users\mdy\Desktop\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.Properties.Resources.resources
+C:\Users\mdy\Desktop\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.csproj.GenerateResource.cache
+C:\Users\mdy\Desktop\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.exe
+C:\Users\mdy\Desktop\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.pdb
